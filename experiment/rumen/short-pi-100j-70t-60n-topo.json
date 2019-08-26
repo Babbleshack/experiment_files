@@ -1,0 +1,124 @@
+{
+  "name" : "<root>",
+  "children" : [ {
+    "name" : "UNKNOWN",
+    "children" : [ {
+      "name" : "UNKNOWN",
+      "children" : null
+    } ]
+  }, {
+    "name" : "default-rack",
+    "children" : [ {
+      "name" : "yarn-worker-11.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-35.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-0.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-23.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-26.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-33.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-7.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-30.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-14.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-18.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-21.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-17.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-4.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-31.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-12.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-9.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-36.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-24.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-1.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-27.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-6.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-15.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-10.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-22.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-29.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-34.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-3.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-32.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-25.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-13.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-20.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-8.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-2.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-19.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-28.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-16.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    }, {
+      "name" : "yarn-worker-5.yarn-service.yarn.svc.cluster.local",
+      "children" : null
+    } ]
+  } ]
+}
